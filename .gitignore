@@ -1,0 +1,5 @@
+node_modules/
+logs/
+*.log
+!example.log
+/home/administrator/Documents/Project_Demo_SR/NodeNginx/app/node_modules
